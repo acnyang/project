@@ -1,0 +1,30 @@
+body {
+	background-color: #B0EBE0;
+	font-family: Arial;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+
+input {
+	/*text-align: center;*/
+	width: 300px;
+	height: 24px;
+	margin: 4px;
+	font-size: 14px;
+}
+
+
+.center {
+	text-align: center;
+}
+
+.cta-btn {
+	background-color: #50DE55;
+	border-radius: 2px;
+	border: none;
+	color: #ffffff;
+	height: 30px;
+}
